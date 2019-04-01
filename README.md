@@ -33,4 +33,4 @@ Calling the function returns an object with 3 elements:
 	}
 ```
 
-** Incase of suggestions, feel free to open issues or contact me: ([url=mailto:joloashobatmat@gmail.com]jolaoshobatmat@gmail.com[/url])
+** Incase of suggestions, feel free to open issues or contact me: [mailto:joloashobatmat@gmail.com](jolaoshobatmat@gmail.com)
